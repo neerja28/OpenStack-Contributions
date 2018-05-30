@@ -1,6 +1,6 @@
 # OpenStack-Newton-Contributions
  
-Upstream OpenStack Contributions:
+*Upstream OpenStack Contributions:*
 
 1. http://git.openstack.org/cgit/openstack/zaqar-tempest-plugin/commit/?id=188fbaa735042872c268855dbcf0676998021390
  
