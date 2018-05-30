@@ -8,7 +8,7 @@ Upstream OpenStack Contributions:
  
 Blueprints:
 
-https://blueprints.launchpad.net/zaqar/+spec/tempest-tests-zaqar
+1. https://blueprints.launchpad.net/zaqar/+spec/tempest-tests-zaqar
  
 Bugs List:
 
