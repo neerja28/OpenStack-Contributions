@@ -6,11 +6,11 @@
  
 2. https://review.openstack.org/#/c/555323/
  
-Blueprints:
+*Blueprints:*
 
 1. https://blueprints.launchpad.net/zaqar/+spec/tempest-tests-zaqar
  
-Bugs List:
+*Bugs List:*
 
 1. https://bugs.launchpad.net/zaqar/+bug/1529793
 
